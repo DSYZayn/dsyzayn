@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning C/C++
+- ⚡ Fun fact: Poem Coding movies music
+
+![index](https://s2.loli.net/2023/12/21/kYcyGWRXij8qh5V.webp)
 
 <!--
 **DSYZayn/dsyzayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
